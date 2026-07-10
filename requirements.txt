@@ -1,0 +1,6 @@
+numpy
+scipy
+# Install torch from the cu118 index so it runs on older CUDA drivers (A10 / CUDA 12.0):
+#   pip install torch --index-url https://download.pytorch.org/whl/cu118
+# The default torch build silently falls back to CPU on those drivers.
+torch
