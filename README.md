@@ -1,7 +1,7 @@
 # FGD configuration audit
 
 Reproducibility package for *"Same Motions, Different Winners: The Gesture-Generation
-Leaderboard and Its Human Agreement Are Configuration-Tunable."*
+Leaderboard and Its Human Agreement Are Configuration-Tunable."* (Accepted at MINT Workshop, EMNLP 2026)
 
 The audit measures how much a co-speech-gesture leaderboard scored by **Fréchet Gesture
 Distance (FGD)** moves under undocumented configuration choices, and how far FGD agrees with
